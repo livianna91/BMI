@@ -11,6 +11,9 @@ CSS: Linguagem de estilo utilizada para estilizar as páginas web.
 <br>
 JavaScript: Linguagem de programação utilizada para desenvolver a interatividade da aplicação.
 
+### Link do site
+https://bmicalculatorbyliv.netlify.app
+
 ### Considerações Finais
 
 O projeto de calculadora de IMC desenvolvido utilizando HTML, CSS e JavaScript é uma ótima maneira de aprender e praticar essas tecnologias. A calculadora de IMC é uma ferramenta útil para auxiliar na avaliação da saúde e bem-estar das pessoas. Ao criar uma calculadora de IMC online, é possível disponibilizar uma solução prática e acessível para que os usuários possam verificar rapidamente se estão dentro de faixas consideradas saudáveis. Utilizando o HTML para estruturar a página, o CSS para estilizar e o JavaScript para adicionar funcionalidade, foi possível criar uma interface amigável e completa. Esse projeto é um exemplo do potencial do desenvolvimento web e demonstra como é possível aplicar essas tecnologias para criar soluções úteis e informativas.
